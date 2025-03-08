@@ -1,8 +1,4 @@
 # Securebank-manual-Testing
-# SecureBank Manual Testing Project - README
-
-## Comprehensive Documentation for Quality Assurance Processes
-
 ### Project Overview
 This repository outlines the end-to-end manual testing framework developed for SecureBank, a secure online banking platform. The project ensures robustness, usability, and security across critical modules, including user authentication, transaction processing, and cross-browser compatibility.
 
